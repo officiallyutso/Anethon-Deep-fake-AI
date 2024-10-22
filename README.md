@@ -406,6 +406,6 @@ This is an open-source project developed in our free time. Updates may be delaye
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=hacksider/deep-live-cam&type=Date&theme=dark" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=hacksider/deep-live-cam&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=hacksider/deep-live-cam&type=Date" />
+   <img alt="Star History Chart" src="[https://api.star-history.com/svg?repos=hacksider/deep-live-cam&type=Date](https://github.com/officiallyutso/Anethon-Deep-fake-AI/blob/main/team-anethon.png)" />
  </picture>
 </a>
