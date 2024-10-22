@@ -366,8 +366,6 @@ sudo apt-get -y install cuda-toolkit-11-8
 
 ## Future Updates & Roadmap
 
-For the latest experimental builds and features, see the [experimental branch](https://github.com/hacksider/Deep-Live-Cam/tree/experimental).
-
 **TODO:**
 
 - [ ] Develop a version for web app/service
