@@ -398,14 +398,3 @@ This is an open-source project developed in our free time. Updates may be delaye
 - and [all developers](https://github.com/hacksider/Deep-Live-Cam/graphs/contributors) behind libraries used in this project.
 - Foot Note: [This is originally roop-cam, see the full history of the code here.](https://github.com/hacksider/roop-cam) Please be informed that the base author of the code is [s0md3v](https://github.com/s0md3v/roop)
 
-## Contributions
-![Alt](https://repobeats.axiom.co/api/embed/fec8e29c45dfdb9c5916f3a7830e1249308d20e1.svg "Repobeats analytics image")
-## Star History
-
-<a href="https://star-history.com/#hacksider/deep-live-cam&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/officiallyutso/Anethon-Deep-fake-AI/refs/heads/main/team-anethon.png" />
-   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/officiallyutso/Anethon-Deep-fake-AI/refs/heads/main/team-anethon.png" />
-   <img alt="Star History Chart" src="https://raw.githubusercontent.com/officiallyutso/Anethon-Deep-fake-AI/refs/heads/main/team-anethon.png" />
- </picture>
-</a>
