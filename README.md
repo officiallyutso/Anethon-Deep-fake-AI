@@ -385,6 +385,6 @@ This is an open-source project developed in our free time. Updates may be delaye
 ## Credits
 
 - [ffmpeg](https://ffmpeg.org/): for making video related operations easy
-- [ANEE](https://github.com/officiallyutso) : Team Leader
+- [UTSO](https://github.com/officiallyutso) : Team Leader
 - [ANEE](https://github.com/officiallyanee) : Team Member
 
