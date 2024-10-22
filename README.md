@@ -178,9 +178,6 @@ Track and change faces on the fly.
 
 ![face-mapping2](media/face_mapping2.png)
 
-**Map the Faces:**
-
-![face_mapping_result](media/face_mapping_result.gif)
 
 **See the Magic!**
 
